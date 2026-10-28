@@ -1,4 +1,5 @@
-Olá! 👋 Eu sou José Henrique Rocha
+Olá! 👋 
+Eu sou José Henrique Rocha
 
 Atuo em outra área e estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Atualmente, estudo **Python** e **cibersegurança**, com foco em projetos de **Blue Team** e **inteligência artificial**.
 
