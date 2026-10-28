@@ -1,16 +1,24 @@
-## Hi there 👋
+Olá! 👋 Eu sou José Henrique Rocha
 
-<!--
-**jhrocha-dev/jhrocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo em outra área e estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Atualmente, estudo **Python** e **cibersegurança**, com foco em projetos de **Blue Team** e **inteligência artificial**.
 
-Here are some ideas to get you started:
+### 🧰 Tecnologias e áreas de interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cibersegurança-1A1A1A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Back-end](https://img.shields.io/badge/Back--end-333333?style=for-the-badge&logo=serverfault&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🌱 Atualmente
+
+- Estudando **Python** e **cibersegurança**
+- Desenvolvendo projetos de **Blue Team** e **IA**
+- Buscando colaborar em projetos de **segurança**, **back-end** e **inteligência artificial**
+
+### 💬 Vamos conversar
+
+Pode me perguntar sobre **segurança** ou **back-end**.
+
+📫 [josehenriquerocha5@gmail.com](mailto:josehenriquerocha5@gmail.com)
+
+⚡ **Curiosidade:** amo animes e livros clássicos.
